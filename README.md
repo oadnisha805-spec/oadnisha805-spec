@@ -38,3 +38,5 @@ I am a Computer Science student passionate about Java development and software e
 
 ### 📫 Contact
 📧 Email: oadnisha805@gmail.com
+
+> "Every expert was once a beginner. Keep learning, keep building."
