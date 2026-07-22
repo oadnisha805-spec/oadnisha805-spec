@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Nisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oadnisha805-spec&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oadnisha805-spec&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
