@@ -1,16 +1,20 @@
 # Hi 👋, I'm Nisha Oad
 
-## 💻 Computer Science Student | Java Developer
+💻 Computer Science Student | Java Developer
 
 Welcome to my GitHub profile!
 
-### 🌱 Currently Learning
-- Java
-- Data Structures & Algorithms
-- Java Swing
-- MySQL
-- Git & GitHub
+## 👩‍💻 About Me
 
+I am a Computer Science student passionate about Java development and software engineering. I enjoy building desktop applications with Java Swing and continuously improving my programming, problem-solving, and data structures skills.
+
+## 🌱 Currently Learning
+
+- ☕ Java
+- 📚 Data Structures & Algorithms
+- 🖥️ Java Swing
+- 🗄️ MySQL
+- 🌿 Git & GitHub
 ## 🛠️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,11 +32,9 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oadnisha805-spec&layout=compact&theme=tokyonight)
 
 
-### 📂 Featured Projects
-- Smart Calculator
-- AI Chatbot
-- Student Grade Tracker
-- Stock Trading Platform
+- 🔗 [Smart Calculator](https://github.com/oadnisha805-spec/Smart-Calculator)
+- 🔗 [AI Chatbot](https://github.com/oadnisha805-spec/CodeAlpha_AIChatbot)
+- 🔗 [Student Grade Tracker](https://github.com/oadnisha805-spec/CodeAlpha_StudentGradeTrackerGUI)
 
 ### 📫 Contact
 📧 Email: oadnisha805@gmail.com
